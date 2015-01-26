@@ -631,3 +631,14 @@ padding-top: 190px;
 font-size: 42px;
 }
 }
+
+.band-thumb {
+  height: 263px;
+  max-width: 263px;
+  background-position: center center;
+  background-size: cover;
+}
+
+h2 {
+  margin-bottom: 25px
+}
