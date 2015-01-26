@@ -637,3 +637,11 @@ h2 {
   max-width: 75%;
   height: auto;
 }
+
+#shows, #about, #gallery, #media, #contact {
+  padding: 20px 0 30px 0
+}
+
+.mediavideo {
+  margin: 20px 0
+}
