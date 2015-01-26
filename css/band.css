@@ -288,12 +288,6 @@ border: 0;
 .theteam {
 	margin-bottom:30px;
 }
-.theteam img {
-	cursor:pointer;
-}
-.theteam img:hover {
-	opacity:0.5;
-}
 /*==========5. IMAGE GALLERY ==============*/
 
 .Gallery ul li {
