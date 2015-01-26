@@ -60,7 +60,6 @@ border: 0;
 	height:840px;
 	background:url(../images/header_img1.jpg) no-repeat #000 center center; /* Old browsers */
 	overflow:hidden;
-	background-attachment: fixed;
 	background-position: 50% 0;
 	background-size:cover;
 }
@@ -283,7 +282,6 @@ border: 0;
 	color: #fff;
 	background:url(../images/about_img.jpg) #000 center center; /* Old browsers */
 	overflow:hidden;
-	background-attachment: fixed;
 	background-position: 50% 0;
 	background-size:cover;
 }
@@ -321,7 +319,6 @@ border: 0;
 	color: #fff;
 	background:url(../images/media_img.jpg) #000 center center; /* Old browsers */
 	overflow:hidden;
-	background-attachment: fixed;
 	background-position: 50% 0;
 	background-size:cover;
 }
@@ -372,7 +369,6 @@ border: 0;
 	color: #fff;
 	background:url(../images/footer_img.jpg) no-repeat #000 center center; /* Old browsers */
 	overflow:hidden;
-	background-attachment: fixed;
 	background-position: 50% 0;
 	background-size:cover;
 	padding-bottom:50px;
