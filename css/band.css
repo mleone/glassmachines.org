@@ -170,7 +170,7 @@ border: 0;
 .hero-unit {
 	background:none;
 	text-align:center;
-	padding-top:300px;
+	padding-top:290px;
 	padding-bottom:0;
 }
 .hero-unit h1 {
@@ -644,4 +644,8 @@ h2 {
 
 .mediavideo {
   margin: 20px 0
+}
+
+.hero-unit p {
+  padding-bottom: 10px;
 }
