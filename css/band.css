@@ -560,6 +560,9 @@ margin-right: -20px;
 margin-left: -20px;
 height:auto;
 }
+.masthead {
+	background:url(../images/header_img_mobile.jpg) no-repeat #000 center center; /* Old browsers */
+}
  .PageHead h3, .FeatLayout h3 {
  font-size:20px;
  line-height:25px;
