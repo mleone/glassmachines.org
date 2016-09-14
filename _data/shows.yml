@@ -4,6 +4,12 @@
   date: "Friday, Sep 16, 2016"
   address: "37 Memorial Blvd, Newport, Rhode Island 02840"
 
+- venue: "Firehouse 13"
+  url: "http://fh13.com/"
+  tagline: "With Wild Adriatic"
+  date: "Thursday, Oct 13, 2016"
+  address: "41 Central St, Providence, RI 02907"
+
 - venue: "The Met"
   url: "http://themetri.com/"
   tagline: "With Blackletter, Wild Among Natives and More"
