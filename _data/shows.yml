@@ -1,0 +1,23 @@
+- venue: "Jimmy's Saloon"
+  url: "http://jimmysnewport.com/"
+  tagline: "With Nate Cozzolino, Stupid Robots and More"
+  date: "Friday, Sep 16, 2016"
+  address: "37 Memorial Blvd, Newport, Rhode Island 02840"
+
+- venue: "The Met"
+  url: "http://themetri.com/"
+  tagline: "With Blackletter, Wild Among Natives and More"
+  date: "Wednesday, Oct 19, 2016"
+  address: "1005 Main Street, Pawtucket, RI 02860"
+
+- venue: "News Cafe"
+  url: "http://www.newscaferi.com/"
+  tagline: "C Nine Presents..."
+  date: "Saturday, Nov 19, 2016"
+  address: "43 Broad St, Pawtucket, RI 02860"
+
+- venue: "Pour Judgement"
+  url: "http://www.pourjudgementnewport.com/"
+  tagline: ""
+  date: "Friday, December 23, 2016"
+  address: "32 Broadway, Newport, RI 02840"
