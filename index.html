@@ -165,6 +165,9 @@ title: Glass Machines
     </div>
   </div>
   {% for show in site.data.shows %}
+    {% if show.active == false %}
+      {% continue %}
+    {% endif %}
     <div class="row-fluid EventsList">
       <div class="span12">
         <div class="thumbnail">
@@ -311,17 +314,21 @@ title: Glass Machines
     <br />
     <p class="text-center">
       <div class="row-fluid theteam" style="text-align:center;">
-        <div class="span4">
+        <div class="span3">
           <img src="images/team_img1.jpg" alt="team">
           <p>Mike / Guitars, Vocals</p>
         </div>
-        <div class="span4">
+        <div class="span3">
           <img src="images/team_img4.jpg" alt="team">
           <p>Burt / Bass, Vocals</p>
         </div>
-        <div class="span4">
+        <div class="span3">
+          <img src="images/team_img2.jpg" alt="team">
+          <p>Nick / Guitars</p>
+        </div>
+        <div class="span3">
           <img src="images/team_img3.jpg" alt="team">
-          <p>Matt / Percussion</p>
+          <p>Matt / Percussion, Vocals</p>
         </div>
       </div>
     </p>

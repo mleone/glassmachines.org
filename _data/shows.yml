@@ -1,29 +1,46 @@
+- venue: "News Cafe"
+  url: "http://www.newscaferi.com/"
+  tagline: "With The Stupid Robots and The Sweet Release"
+  date: "Saturday, Nov 19, 2016"
+  address: "43 Broad St, Pawtucket, RI"
+
+- venue: "Pour Judgement"
+  url: "http://www.pourjudgementnewport.com/"
+  tagline: "With ClamBake"
+  date: "Friday, December 23, 2016"
+  address: "32 Broadway, Newport, RI"
+
+- venue: "The Parlour"
+  url: "http://theparlourri.com/"
+  tagline: "C Nine Presents..."
+  date: "Thursday, Dec 29, 2016"
+  address: "1119 N Main St, Providence, RI"
+
+- venue: "Alchemy"
+  url: "https://www.facebook.com/AlchemyProvidence/"
+  tagline: "With Joon, Little Stranger, The Norm"
+  date: "March 8-9, 2016"
+  address: "71 Richmond Street, Providence, RI"
+
+  ### Past
+
 - venue: "Jimmy's Saloon"
+  active: false
   url: "http://jimmysnewport.com/"
   tagline: "With Nate Cozzolino, Stupid Robots and More"
   date: "Friday, Sep 16, 2016"
   address: "37 Memorial Blvd, Newport, Rhode Island 02840"
 
 - venue: "Firehouse 13"
+  active: false
   url: "http://fh13.com/"
   tagline: "With Wild Adriatic"
   date: "Thursday, Oct 13, 2016"
   address: "41 Central St, Providence, RI 02907"
 
 - venue: "The Met"
+  active: false
   url: "http://themetri.com/"
   tagline: "With Blackletter, Wild Among Natives and More"
   date: "Wednesday, Oct 19, 2016"
   address: "1005 Main Street, Pawtucket, RI 02860"
-
-- venue: "News Cafe"
-  url: "http://www.newscaferi.com/"
-  tagline: "C Nine Presents..."
-  date: "Saturday, Nov 19, 2016"
-  address: "43 Broad St, Pawtucket, RI 02860"
-
-- venue: "Pour Judgement"
-  url: "http://www.pourjudgementnewport.com/"
-  tagline: ""
-  date: "Friday, December 23, 2016"
-  address: "32 Broadway, Newport, RI 02840"
