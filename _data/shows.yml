@@ -1,28 +1,38 @@
+- venue: "Alchemy"
+  url: "https://www.facebook.com/AlchemyProvidence/"
+  tagline: "With Joon, Little Stranger, The Norm"
+  date: "Wednesday, March 8, 2017"
+  address: "71 Richmond Street, Providence, RI"
+
+- venue: "Jimmy's Saloon"
+  active: true
+  url: "http://jimmysnewport.com/"
+  tagline: "St. Patty's Parade Celebration"
+  date: "Saturday, March 11, 2017"
+  address: "37 Memorial Blvd, Newport, RI"
+
+  ### Past
+
 - venue: "News Cafe"
   url: "http://www.newscaferi.com/"
   tagline: "With The Stupid Robots and The Sweet Release"
   date: "Saturday, Nov 19, 2016"
   address: "43 Broad St, Pawtucket, RI"
+  active: false
 
 - venue: "Pour Judgement"
   url: "http://www.pourjudgementnewport.com/"
   tagline: "With ClamBake"
   date: "Friday, December 23, 2016"
   address: "32 Broadway, Newport, RI"
+  active: false
 
 - venue: "The Parlour"
   url: "http://theparlourri.com/"
   tagline: "C Nine Presents..."
   date: "Thursday, Dec 29, 2016"
   address: "1119 N Main St, Providence, RI"
-
-- venue: "Alchemy"
-  url: "https://www.facebook.com/AlchemyProvidence/"
-  tagline: "With Joon, Little Stranger, The Norm"
-  date: "March 8-9, 2016"
-  address: "71 Richmond Street, Providence, RI"
-
-  ### Past
+  active: false
 
 - venue: "Jimmy's Saloon"
   active: false
