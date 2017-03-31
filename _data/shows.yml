@@ -1,17 +1,23 @@
+- venue: "Providence"
+  url: "#"
+  tagline: "Album Release Show!"
+  date: "August 2017"
+  address: "Providence, RI"
+
+  ### Past
 - venue: "Alchemy"
   url: "https://www.facebook.com/AlchemyProvidence/"
   tagline: "With Joon, Little Stranger, The Norm"
   date: "Wednesday, March 8, 2017"
   address: "71 Richmond Street, Providence, RI"
+  active: false
 
 - venue: "Jimmy's Saloon"
-  active: true
+  active: false
   url: "http://jimmysnewport.com/"
   tagline: "St. Patty's Parade Celebration"
   date: "Saturday, March 11, 2017"
   address: "37 Memorial Blvd, Newport, RI"
-
-  ### Past
 
 - venue: "News Cafe"
   url: "http://www.newscaferi.com/"

@@ -365,8 +365,9 @@ title: Glass Machines
         <div class="row-fluid">
           <div class="span12">
             <h3>Find us!</h3>
-              <p>Next show: 07/09/16 @ Jimmy's Saloon</p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11955.90809909553!2d-71.3050464!3d41.4830978!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8a886a7ecba40684!2sJimmy&#39;s+Saloon!5e0!3m2!1sen!2sus!4v1466015337476" width="300" height="300" frameborder="0" style="border:0"></iframe>
+              {% assign next_show = site.data.shows[0] %}
+              <p>Next show: {{ next_show.date }} @ {{ next_show.venue}}</p>
+<iframe src="https://www.google.com/maps?q={{ site.data.shows[0].address | cgi_escape }}&output=embed" width="300" height="300" frameborder="0" style="border:0"></iframe>
           </div>
         </div>
         <br />
