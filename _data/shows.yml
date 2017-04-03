@@ -1,10 +1,19 @@
-- venue: "Providence"
-  url: "#"
-  tagline: "Album Release Show!"
-  date: "August 2017"
-  address: "Providence, RI"
+- venue: "News Cafe"
+  url: "http://www.newscaferi.com/"
+  tagline: "CD Release Show!"
+  date: "Friday, July 14, 2017"
+  address: "43 Broad St, Pawtucket, RI"
+  active: true
 
-  ### Past
+- venue: "Alchemy"
+  url: "https://www.facebook.com/AlchemyProvidence/"
+  tagline: ""
+  date: "Saturday, August 12, 2017"
+  address: "71 Richmond Street, Providence, RI"
+  active: true
+
+# Past
+
 - venue: "Alchemy"
   url: "https://www.facebook.com/AlchemyProvidence/"
   tagline: "With Joon, Little Stranger, The Norm"
