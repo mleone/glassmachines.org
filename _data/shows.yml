@@ -1,3 +1,17 @@
+- venue: "Jimmy's Saloon"
+  url: "http://jimmysnewport.com/"
+  tagline: "w/ Nate Cozzolino & TLA, Stupid Robots"
+  date: "Friday, May 12, 2017"
+  address: "37 Memorial Blvd, Newport, RI"
+  active: true
+
+- venue: "Firehouse 13"
+  url: "http://fh13.com/"
+  tagline: "w/ Northeast Traffic, Tai Chi Funk Squad, Groove Axiom"
+  date: "Thursday, May 26, 2016"
+  address: "41 Central St, Providence, RI 02907"
+  active: true
+
 - venue: "News Cafe"
   url: "http://www.newscaferi.com/"
   tagline: "CD Release Show!"
@@ -7,7 +21,7 @@
 
 - venue: "Alchemy"
   url: "https://www.facebook.com/AlchemyProvidence/"
-  tagline: ""
+  tagline: "Motif Awards Jam Band Showcase"
   date: "Saturday, August 12, 2017"
   address: "71 Richmond Street, Providence, RI"
   active: true
