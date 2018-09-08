@@ -1,11 +1,17 @@
 - venue: "News Cafe"
   url: "http://www.newscaferi.com/"
-  tagline: "CD Release Show!"
-  date: "Friday, July 14, 2017"
+  tagline: "Return of the Machines - Reunion Show"
+  date: "Friday, November 3, 2018"
   address: "43 Broad St, Pawtucket, RI"
   active: true
 
 # Past
+- venue: "News Cafe"
+  url: "http://www.newscaferi.com/"
+  tagline: "CD Release Show!"
+  date: "Friday, July 14, 2017"
+  address: "43 Broad St, Pawtucket, RI"
+  active: false
 
 - venue: "Jimmy's Saloon"
   url: "http://jimmysnewport.com/"
