@@ -1,11 +1,19 @@
+- venue: "The Parlour"
+  url: "http://theparlourri.com/"
+  tagline: "Top 5 Fiend Ugly Sweater Party"
+  date: "Saturday, Dec 22, 2018"
+  address: "1119 N Main St, Providence, RI"
+  active: true
+
+# Past
+
 - venue: "News Cafe"
   url: "http://www.newscaferi.com/"
   tagline: "Return of the Machines - Reunion Show"
   date: "Friday, November 2, 2018"
   address: "43 Broad St, Pawtucket, RI"
-  active: true
+  active: false
 
-# Past
 - venue: "News Cafe"
   url: "http://www.newscaferi.com/"
   tagline: "CD Release Show!"
