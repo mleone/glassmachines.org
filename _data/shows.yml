@@ -1,11 +1,25 @@
+- venue: "News Cafe"
+  url: "http://www.newscaferi.com/"
+  tagline: "Robot Records Presents w/ Jabbawaukee"
+  date: "Saturday, April 27, 2019"
+  address: "43 Broad St, Pawtucket, RI"
+  active: true
+
+- venue: "PVDFest"
+  url: "http://www.newscaferi.com/"
+  tagline: "Providence Music/Arts Festival"
+  date: "June 6-9, 2019"
+  address: "Downtown Providence RI"
+  active: true
+
+# Past
+
 - venue: "The Parlour"
   url: "http://theparlourri.com/"
   tagline: "Top 5 Fiend Ugly Sweater Party"
   date: "Saturday, Dec 22, 2018"
   address: "1119 N Main St, Providence, RI"
-  active: true
-
-# Past
+  active: false
 
 - venue: "News Cafe"
   url: "http://www.newscaferi.com/"
