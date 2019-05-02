@@ -3,7 +3,7 @@
   tagline: "Robot Records Presents w/ Jabbawaukee"
   date: "Saturday, April 27, 2019"
   address: "43 Broad St, Pawtucket, RI"
-  active: true
+  active: false
 
 - venue: "PVDFest"
   url: "http://www.newscaferi.com/"
