@@ -1,11 +1,11 @@
+# Past
+
 - venue: "The Parlour"
   url: "http://theparlourri.com/"
   tagline: "Jetty, Pals, Glass Machines"
   date: "Saturday, July 13, 2019"
   address: "1119 N Main St, Providence, RI"
-  active: true
-
-# Past
+  active: false
 
 - venue: "PVDFest"
   url: "https://pvdfest.com/"
